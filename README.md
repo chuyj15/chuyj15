@@ -15,18 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-
 
 GitHub 통계
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15&show_icons=true&locale=kr)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15&show_icons=true&theme=radical&locale=kr)
 GitHub 저장소 핀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chuyj15&repo=github-readme-stats)](https://github.com/chuyj15/JAVA_CYJ)
 언어 사용량 통계
