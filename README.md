@@ -55,10 +55,6 @@ Here are some ideas to get you started:
 
   ***
 
-  
-- 📝 [노션 - 자바](https://www.notion.so/869e1b04cbe849cfbc5a872ef4e05070?v=96789e8bf6df433cb56ae0339a0950a6&pvs=4)
-- 📝 [노션 - 리액트](https://www.notion.so/869e1b04cbe849cfbc5a872ef4e05070?v=96789e8bf6df433cb56ae0339a0950a6&pvs=4)
-
 - 📫 How to reach me **dlwlsla15@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuyj15&show_icons=true)
